@@ -1,9 +1,6 @@
 # Laboratorio 2 - Deep Learning (Series de tiempo)
 
-Base de migración de Guatemala (2009 - junio 2026). Avance: modelos LSTM con tuneo de
-hiperparámetros para las dos series del laboratorio 1 (total de viajeros y vía aérea).
 
-Se usa PyTorch porque TensorFlow no tiene build para Python 3.14.
 
 ## Correr
 
