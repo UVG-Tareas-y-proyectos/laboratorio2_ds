@@ -12,7 +12,7 @@ python -m venv venv
 
 ## Estructura
 
-- `notebooks/laboratorio2.ipynb` - preprocesamiento, LSTM y tuneo
+- `notebooks/laboratorio2.ipynb` - LSTM y tuneo, comparación con SARIMA, y catch22 (PCA/clustering)
 - `src/preparar_datos.py` - limpieza y armado de las series (genera lo de `data/processed/`)
 - `data/raw/` - Excel original, no se modifica
 - `data/processed/` - series y split train/test (no se versiona)
