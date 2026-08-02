@@ -1,7 +1,9 @@
-pandas
-openpyxl
-numpy
-matplotlib
-scikit-learn
-torch
 jupyter
+matplotlib
+numpy
+openpyxl
+pandas
+pycatch22
+scikit-learn
+statsmodels
+torch
